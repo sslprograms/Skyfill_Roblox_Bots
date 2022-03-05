@@ -1,0 +1,40 @@
+{
+    "settings":{
+
+        "proxies":{
+            "type":"http",
+            "format":0
+        },
+
+        "cookies":{
+            "format":1
+        },
+
+        "threading":{
+            "threads":2,
+            "workers":250
+        },
+
+        "theme":{
+            "enabled":true,
+            
+            "color_settings":{
+                "successColor":"lblue",
+                "failedColor":"lred",
+                "idleColor":"white"
+            },
+
+            "theme_colors":{
+                "logo":"lblue",
+                "features":"white"
+            }
+
+        },
+
+        "2captcha":{
+            "key":""
+        }
+
+
+    }
+}
